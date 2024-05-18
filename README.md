@@ -82,6 +82,9 @@ A powerful tool for developers to test web applications for accessibility. Key f
 4. **Review Your Issues**
    - Click on issues to identify problematic elements and verify compliance.
 
+![WebdriverIO]([https://youtu.be/EPjajfWZyPw](https://youtu.be/tqnzSrEbLzA?si=Y9KKroJI4Fo-gBFx))
+
+
 ## Types of Accessibility Scans
 - **Workflow Scanner**: Records and analyzes user interactions.
 - **Full Page Scanner**: Comprehensive review of entire web pages.
