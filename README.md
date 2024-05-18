@@ -82,7 +82,7 @@ A powerful tool for developers to test web applications for accessibility. Key f
 4. **Review Your Issues**
    - Click on issues to identify problematic elements and verify compliance.
 
-[Accessibility Testing](https://youtu.be/EPjajfWZyPw)
+[![Accessibility Testing Video](https://img.youtube.com/vi/EPjajfWZyPw/0.jpg)](https://youtu.be/EPjajfWZyPw)
 
 
 
