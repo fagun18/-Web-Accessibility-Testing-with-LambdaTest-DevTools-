@@ -97,6 +97,11 @@ A powerful tool for developers to test web applications for accessibility. Key f
 - **YouTube**: [Mejbaur Bahar Fagun](https://lnkd.in/gg9AY4BE)
 - **Threads**: [Mejbaur Bahar Fagun](https://www.threads.net/@fagun018)
 
----
+
+
+![Mejbaur Bahar Fagun](https://th.bing.com/th/id/OIP.kZ7sZWgg-zvkLAeAjttqpgHaHa?rs=1&pid=ImgDetMain)  
+**Mejbaur Bahar Fagun**  
+Product Acceptance Engineer (L2) @ DEVxHUB | 🥸 Lead SQA and 🐞 Security Analysts 🐛 Bug Bounty 👻 DevSecOps
+
 
 #AccessibilityTesting #WCAGCompliance #AccessibilityDevTools #InclusiveDesign #AutomatedTesting #WebAccessibility #DisabilityInclusion #UsabilityTesting #FunctionalTesting #CompatibilityTesting #PerformanceTesting #SocialResponsibility #AccessibilityLegislation #UserCenteredDesign #AssistiveTechnology #AccessibilityStandards #CrossBrowserTesting #LambdaTest #DigitalInclusion #AccessibilityReports #testing #softwaretesting #qa #softwaretester #mejbaurbaharfagun #lambdatest
