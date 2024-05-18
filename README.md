@@ -1,5 +1,7 @@
 # Accessibility Testing
 
+![Accessibility Testing](https://media.licdn.com/dms/image/D5612AQHp-IuT9w1DzQ/article-cover_image-shrink_720_1280/0/1716051591793?e=1721260800&v=beta&t=RCNtbTh_e6xZ2liBgC4UWSAHaWhe3nNPp3OfYFmWTJg)
+
 ## 🤔 What is Accessibility Testing?
 Accessibility testing is a method used to check websites to ensure that content is accessible without relying on traditional ways of interaction (e.g., using a mouse, touchpad, reading content, etc.). It ensures that websites and apps can be used easily by everyone, including people with disabilities like vision or hearing problems, and other physical or cognitive issues.
 
